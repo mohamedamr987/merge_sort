@@ -43,7 +43,7 @@ void merge(List<int> arr, int f,  int l, int midPoint){
     arr[i+f] = result[i];
   }
 }
-
+// here is the algorithm
 void main(List<String> arguments) {
   List<int> testArray = [6, 5, 12, 10, 9, 1];
   print("Before sorting : $testArray");
